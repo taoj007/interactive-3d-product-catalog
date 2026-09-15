@@ -1,7 +1,7 @@
 {
-  "name": "3d",
+  "name": "interactive-3d-product-catalog",
   "version": "1.0.0",
-  "description": "Next.js product grid with 3D product cards",
+  "description": "A browser-based commerce prototype with interactive 3D GLB product models, material swatches, and anchored hotspot callouts.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,9 +9,30 @@
     "lint": "eslint .",
     "convert": "node scripts/fbx-glb-batch-converter.mjs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "styled-components",
+    "model-viewer",
+    "gltf",
+    "glb",
+    "ecommerce",
+    "3d",
+    "product-catalog",
+    "hardwood-furniture",
+    "ux-design"
+  ],
+  "author": "Tao Jiang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taoj007/interactive-3d-product-catalog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taoj007/interactive-3d-product-catalog/issues"
+  },
+  "homepage": "https://github.com/taoj007/interactive-3d-product-catalog#readme",
   "dependencies": {
     "@google/model-viewer": "^4.1.0",
     "next": "^16.1.6",

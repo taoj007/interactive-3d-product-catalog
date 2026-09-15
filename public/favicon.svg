@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hearth and Grain Japanese hand saw favicon">
+  <rect width="64" height="64" rx="14" fill="#211a12"/>
+  <g transform="rotate(-18 32 32)">
+    <path d="M5 30h25v10H5c-3 0-5-2-5-5s2-5 5-5Z" fill="#d88343"/>
+    <path d="M8 34h15" stroke="#fff9f1" stroke-width="2.8" stroke-linecap="round" opacity=".78"/>
+    <path d="M26 19h34v22l-4 7-4-7-4 7-4-7-4 7-4-7-4 7-4-7h-2V19Z" fill="#fff9f1"/>
+    <path d="M31 24h24" stroke="#c86f31" stroke-width="3" stroke-linecap="round"/>
+    <path d="M26 19h5v22h-5V19Z" fill="#8c4718"/>
+  </g>
+</svg>

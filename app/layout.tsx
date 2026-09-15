@@ -44,6 +44,10 @@ export const metadata: Metadata = {
   title: 'Hearth & Grain | Custom Hardwood Furniture',
   description:
     'Modern classic hardwood furniture made to order, hand finished, and tailored to your home.',
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+  },
 };
 
 interface RootLayoutProps {
