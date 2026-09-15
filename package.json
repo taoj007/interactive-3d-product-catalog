@@ -1,0 +1,32 @@
+{
+  "name": "3d",
+  "version": "1.0.0",
+  "description": "Next.js product grid with 3D product cards",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "convert": "node scripts/fbx-glb-batch-converter.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/model-viewer": "^4.1.0",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "styled-components": "^6.3.11"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "^4.4.1",
+    "@types/node": "^25.4.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.1.6",
+    "typescript": "^5.9.3"
+  },
+  "private": true
+}
