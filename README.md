@@ -4,6 +4,13 @@ A Next.js and TypeScript commerce prototype exploring how 3D product inspection 
 
 Traditional product pages often reduce physical products to flat images, text specs, and price. This demo asks a simple question: what if a storefront let shoppers inspect form, scale, materials, and product details directly in the browser?
 
+## Project Info
+
+- Live demo: https://interactive-3d-product-catalog.vercel.app/
+- Repository: https://github.com/taoj007/interactive-3d-product-catalog
+- Last updated: September 15, 2026
+- License: MIT
+
 ## Highlights
 
 - Full-page 3D landing scene with scroll-driven camera movement.
